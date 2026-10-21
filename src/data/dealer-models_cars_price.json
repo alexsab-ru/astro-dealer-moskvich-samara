@@ -2,19 +2,19 @@
   {
     "brand": "Москвич",
     "model": "3",
-    "price": 1890000,
-    "benefit": 300000
+    "price": 1791000,
+    "benefit": 408000
   },
   {
     "brand": "Москвич",
     "model": "М70",
-    "price": 2439000,
-    "benefit": 660000
+    "price": 2399000,
+    "benefit": 700000
   },
   {
     "brand": "Москвич",
     "model": "М90",
-    "price": 3805000,
-    "benefit": 394000
+    "price": 3299000,
+    "benefit": 900000
   }
 ]
