@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channel>
+  <title>Автомобили</title>
+  <item>
+    <id>EELW94U94TG079736</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELW94U94TG079736/0/full.webp?v=9be882f4c504</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U94TG079736</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U99TG111614</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELW94U99TG111614/0/full.webp?v=0aadd26546c7</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U99TG111614</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U9XTG115977</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-white-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/0/full.webp?v=4ac8aaf5de32</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U9XTG115977</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94W99TG078093</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-20-at-200-hp-ultra-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Ультра 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELW94W99TG078093/0/full.webp?v=77270232b6e0</image_link>
+    <price>3499000 RUB</price>
+    <sale_price>3099000 RUB</sale_price>
+    <min_price>3099000 RUB</min_price>
+    <max_price>3499000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Ультра, 2.0 AT (200 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94W99TG078093</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELWC4W92TZ547451</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m90-20-at-200-hp-4wd-ultimate-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>М90</model>
+    <year>2026</year>
+    <title>Москвич М90 Ультимейт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELWC4W92TZ547451/0/full.webp?v=86d96f8418ce</image_link>
+    <price>4199000 RUB</price>
+    <sale_price>3440000 RUB</sale_price>
+    <min_price>3440000 RUB</min_price>
+    <max_price>4199000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М90, Ультимейт, 2.0 AT (200 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELWC4W92TZ547451</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELWC4W97TZ545310</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m90-20-at-200-hp-4wd-ultimate-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М90</model>
+    <year>2026</year>
+    <title>Москвич М90 Ультимейт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELWC4W97TZ545310/0/full.webp?v=9d2681575166</image_link>
+    <price>4199000 RUB</price>
+    <sale_price>3440000 RUB</sale_price>
+    <min_price>3440000 RUB</min_price>
+    <max_price>4199000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М90, Ультимейт, 2.0 AT (200 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELWC4W97TZ545310</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1041159</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-red-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=b2ab726bdeed</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>КРАСНЫЙ</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1041159</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1042216</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042216/0/full.webp?v=96d7f5d1da92</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1042216</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1042349</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/0/full.webp?v=4e9e1899691a</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1042349</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1043580</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1043580/0/full.webp?v=df7e7bb86648</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1043580</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1043924</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1043924/0/full.webp?v=d283cfd3acd9</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1043924</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1044577</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-blue-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/0/full.webp?v=84070b8a1bd8</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Голубой</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1044577</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1044739</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044739/0/full.webp?v=aa88902f0364</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1044739</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1044970</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044970/0/full.webp?v=8c660844d909</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1044970</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1048285</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/0/full.webp?v=4e9e1899691a</image_link>
+    <price>2168000 RUB</price>
+    <sale_price>1908000 RUB</sale_price>
+    <min_price>1908000 RUB</min_price>
+    <max_price>2168000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1048285</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1048330</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1048330/0/full.webp?v=1d95e1191331</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1890000 RUB</sale_price>
+    <min_price>1890000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1048330</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1041946</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1041946/0/full.webp?v=679b860360eb</image_link>
+    <price>2058000 RUB</price>
+    <sale_price>1809000 RUB</sale_price>
+    <min_price>1809000 RUB</min_price>
+    <max_price>2058000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1041946</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1042586</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-blue-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/0/full.webp?v=130657f4d751</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Голубой</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1042586</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1042864</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-blue-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/0/full.webp?v=e31750ead383</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Голубой</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1042864</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1042951</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-grey-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042951/0/full.webp?v=0a195b1b51fb</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1042951</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1043521</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043521/0/full.webp?v=b04ca28b98e3</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1043521</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1043523</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043523/0/full.webp?v=d19b555d9112</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1043523</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1043557</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043557/0/full.webp?v=5d0b1f3b2f0f</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1043557</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1044466</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1044466/0/full.webp?v=97cb6a2d2379</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1044466</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAM1044469</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1044469/0/full.webp?v=276929c97b88</image_link>
+    <price>2040000 RUB</price>
+    <sale_price>1791000 RUB</sale_price>
+    <min_price>1791000 RUB</min_price>
+    <max_price>2040000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAM1044469</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA15BAC1036289</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-comfort-telematics-white-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Комфорт Телематика 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA15BAC1036289/0/full.webp?v=babac02a3145</image_link>
+    <price>2280000 RUB</price>
+    <sale_price>2007000 RUB</sale_price>
+    <min_price>2007000 RUB</min_price>
+    <max_price>2280000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Комфорт Телематика, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA15BAC1036289</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA15BAC1036884</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-comfort-telematics-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Комфорт Телематика 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA15BAC1036884/0/full.webp?v=a431da434eff</image_link>
+    <price>2280000 RUB</price>
+    <sale_price>2007000 RUB</sale_price>
+    <min_price>2007000 RUB</min_price>
+    <max_price>2280000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Комфорт Телематика, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA15BAC1036884</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+</channel>
