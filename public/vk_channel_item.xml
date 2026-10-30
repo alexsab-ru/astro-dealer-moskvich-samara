@@ -2,29 +2,6 @@
 <channel>
   <title>Автомобили</title>
   <item>
-    <id>EELW94U94TG079736</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
-    <brand>Москвич</brand>
-    <model>М70</model>
-    <year>2026</year>
-    <title>Москвич М70 Драйв 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/EELW94U94TG079736/0/full.webp?v=9be882f4c504</image_link>
-    <price>3099000 RUB</price>
-    <sale_price>2540000 RUB</sale_price>
-    <min_price>2540000 RUB</min_price>
-    <max_price>3099000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EELW94U94TG079736</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>EELW94U99TG111614</id>
     <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
     <brand>Москвич</brand>
@@ -148,8 +125,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=b2ab726bdeed</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -171,8 +148,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042216/0/full.webp?v=96d7f5d1da92</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -194,8 +171,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/0/full.webp?v=4e9e1899691a</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -217,8 +194,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1043580/0/full.webp?v=df7e7bb86648</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -240,8 +217,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1043924/0/full.webp?v=d283cfd3acd9</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -263,8 +240,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/0/full.webp?v=84070b8a1bd8</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -286,8 +263,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044739/0/full.webp?v=aa88902f0364</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -309,8 +286,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044970/0/full.webp?v=8c660844d909</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -332,8 +309,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/0/full.webp?v=4e9e1899691a</image_link>
     <price>2168000 RUB</price>
-    <sale_price>1908000 RUB</sale_price>
-    <min_price>1908000 RUB</min_price>
+    <sale_price>1858000 RUB</sale_price>
+    <min_price>1858000 RUB</min_price>
     <max_price>2168000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -355,8 +332,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1048330/0/full.webp?v=1d95e1191331</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1890000 RUB</sale_price>
-    <min_price>1890000 RUB</min_price>
+    <sale_price>1840000 RUB</sale_price>
+    <min_price>1840000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -378,8 +355,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1041946/0/full.webp?v=679b860360eb</image_link>
     <price>2058000 RUB</price>
-    <sale_price>1809000 RUB</sale_price>
-    <min_price>1809000 RUB</min_price>
+    <sale_price>1748000 RUB</sale_price>
+    <min_price>1748000 RUB</min_price>
     <max_price>2058000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -401,8 +378,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/0/full.webp?v=130657f4d751</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -424,8 +401,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/0/full.webp?v=e31750ead383</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -447,8 +424,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042951/0/full.webp?v=0a195b1b51fb</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -470,8 +447,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043521/0/full.webp?v=b04ca28b98e3</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -493,8 +470,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043523/0/full.webp?v=d19b555d9112</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -516,8 +493,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043557/0/full.webp?v=5d0b1f3b2f0f</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -539,8 +516,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1044466/0/full.webp?v=97cb6a2d2379</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -562,8 +539,8 @@
     <title>Москвич 3 Стандарт 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1044469/0/full.webp?v=276929c97b88</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1791000 RUB</sale_price>
-    <min_price>1791000 RUB</min_price>
+    <sale_price>1730000 RUB</sale_price>
+    <min_price>1730000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -585,8 +562,8 @@
     <title>Москвич 3 Комфорт Телематика 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA15BAC1036289/0/full.webp?v=babac02a3145</image_link>
     <price>2280000 RUB</price>
-    <sale_price>2007000 RUB</sale_price>
-    <min_price>2007000 RUB</min_price>
+    <sale_price>1970000 RUB</sale_price>
+    <min_price>1970000 RUB</min_price>
     <max_price>2280000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Комфорт Телематика, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -608,8 +585,8 @@
     <title>Москвич 3 Комфорт Телематика 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/cars.moskvich-samara.ru/new/X7LJA15BAC1036884/0/full.webp?v=a431da434eff</image_link>
     <price>2280000 RUB</price>
-    <sale_price>2007000 RUB</sale_price>
-    <min_price>2007000 RUB</min_price>
+    <sale_price>1970000 RUB</sale_price>
+    <min_price>1970000 RUB</min_price>
     <max_price>2280000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Комфорт Телематика, 1.5 CVT (136 л.с.), 2026 г.</description>
