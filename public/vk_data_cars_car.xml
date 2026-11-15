@@ -358,6 +358,38 @@
       </images>
     </car>
     <car>
+      <unique_id>X7LJA13BAC1048285</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-white-black-roof-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>3</folder_id>
+      <year>2026</year>
+      <vin>X7LJA13BAC1048285</vin>
+      <price>2168000</price>
+      <sale_price>1858000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>310000</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/0/full.webp?v=4e9e1899691a</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/1/full.webp?v=5489509e1dfa</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/2/full.webp?v=66a6b2ff11b7</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/3/full.webp?v=23fb8da04a47</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/4/full.webp?v=e8ce4939c6ac</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/5/full.webp?v=c31759850e02</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/6/full.webp?v=055df2118a98</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/7/full.webp?v=15bac73e2743</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/8/full.webp?v=ba42f4b12fd6</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/9/full.webp?v=c2d28d342e9e</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/10/full.webp?v=e369d607cb7c</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/11/full.webp?v=ead7489202f9</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/12/full.webp?v=c66194d4665e</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/13/full.webp?v=9d6352e44181</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1042349/14/full.webp?v=2c30105b79a5</image>
+      </images>
+    </car>
+    <car>
       <unique_id>X7LJA13BAC1048330</unique_id>
       <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-grey-black-roof-2026/</url>
       <mark_id>Москвич</mark_id>
