@@ -102,8 +102,8 @@
     <title>Москвич 3 Стандарт Телематика MY26 2026</title>
     <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=b2ab726bdeed</image_link>
     <price>2150000 RUB</price>
-    <sale_price>1840000 RUB</sale_price>
-    <min_price>1840000 RUB</min_price>
+    <sale_price>1790000 RUB</sale_price>
+    <min_price>1790000 RUB</min_price>
     <max_price>2150000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г.</description>
@@ -378,8 +378,8 @@
     <title>Москвич 3 Стандарт Телематика MY26 2026</title>
     <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/0/full.webp?v=e31750ead383</image_link>
     <price>2040000 RUB</price>
-    <sale_price>1730000 RUB</sale_price>
-    <min_price>1730000 RUB</min_price>
+    <sale_price>1680000 RUB</sale_price>
+    <min_price>1680000 RUB</min_price>
     <max_price>2040000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г.</description>
@@ -389,75 +389,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>X7LJA13BAM1042864</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>X7LJA13BAM1042951</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-telematics-my26-grey-black-roof-2026/</link>
-    <brand>Москвич</brand>
-    <model>3</model>
-    <year>2026</year>
-    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042951/0/full.webp?v=0a195b1b51fb</image_link>
-    <price>2040000 RUB</price>
-    <sale_price>1730000 RUB</sale_price>
-    <min_price>1730000 RUB</min_price>
-    <max_price>2040000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>X7LJA13BAM1042951</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>X7LJA13BAM1043521</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-telematics-my26-black-2026/</link>
-    <brand>Москвич</brand>
-    <model>3</model>
-    <year>2026</year>
-    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043521/0/full.webp?v=b04ca28b98e3</image_link>
-    <price>2065000 RUB</price>
-    <sale_price>1755000 RUB</sale_price>
-    <min_price>1755000 RUB</min_price>
-    <max_price>2065000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>X7LJA13BAM1043521</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>X7LJA13BAM1043523</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-telematics-my26-black-2026/</link>
-    <brand>Москвич</brand>
-    <model>3</model>
-    <year>2026</year>
-    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1043523/0/full.webp?v=d19b555d9112</image_link>
-    <price>2065000 RUB</price>
-    <sale_price>1755000 RUB</sale_price>
-    <min_price>1755000 RUB</min_price>
-    <max_price>2065000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>X7LJA13BAM1043523</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
