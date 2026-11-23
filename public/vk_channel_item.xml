@@ -8,7 +8,7 @@
     <model>М70</model>
     <year>2026</year>
     <title>Москвич М70 Драйв 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/0/full.webp?v=4ac8aaf5de32</image_link>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/2/full.webp?v=42a5ef78d75e</image_link>
     <price>3099000 RUB</price>
     <sale_price>2540000 RUB</sale_price>
     <min_price>2540000 RUB</min_price>
@@ -94,29 +94,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>X7LJA13BAC1041159</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-red-black-roof-2026/</link>
-    <brand>Москвич</brand>
-    <model>3</model>
-    <year>2026</year>
-    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=b2ab726bdeed</image_link>
-    <price>2150000 RUB</price>
-    <sale_price>1790000 RUB</sale_price>
-    <min_price>1790000 RUB</min_price>
-    <max_price>2150000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г.</description>
-    <exterior_color>КРАСНЫЙ</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>X7LJA13BAC1041159</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>X7LJA13BAC1042216</id>
     <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-white-black-roof-2026/</link>
     <brand>Москвич</brand>
@@ -159,29 +136,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>X7LJA13BAC1042349</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>X7LJA13BAC1043580</id>
-    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-grey-black-roof-2026/</link>
-    <brand>Москвич</brand>
-    <model>3</model>
-    <year>2026</year>
-    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1043580/0/full.webp?v=df7e7bb86648</image_link>
-    <price>2150000 RUB</price>
-    <sale_price>1840000 RUB</sale_price>
-    <min_price>1840000 RUB</min_price>
-    <max_price>2150000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>X7LJA13BAC1043580</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
