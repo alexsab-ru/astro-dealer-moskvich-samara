@@ -2,6 +2,103 @@
 <data>
   <cars>
     <car>
+      <unique_id>EELW94U90TG139561</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94U90TG139561</vin>
+      <price>3099000</price>
+      <sale_price>2540000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>559000</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/0/full.webp?v=8a74bf6329ca</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/1/full.webp?v=c57bc8d2ba7b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EELW94U90TG157090</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-silver-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94U90TG157090</vin>
+      <price>3099000</price>
+      <sale_price>2540000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>559000</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/0/full.webp?v=4405a23deafb</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/1/full.webp?v=b8d612369604</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EELW94U92TG138248</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-white-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94U92TG138248</vin>
+      <price>3099000</price>
+      <sale_price>2540000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>559000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/0/full.webp?v=7040e1e80c1b</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/1/full.webp?v=7d5e58aa6ae2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EELW94U95TG066249</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94U95TG066249</vin>
+      <price>3099000</price>
+      <sale_price>2540000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>559000</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/0/full.webp?v=92dc6d21adc2</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/1/full.webp?v=1272ec49db12</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EELW94U95TG107043</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-black-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94U95TG107043</vin>
+      <price>3099000</price>
+      <sale_price>2540000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>559000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG107043/0/full.webp?v=7e8993eac957</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG107043/1/full.webp?v=0c4759f7e21f</image>
+      </images>
+    </car>
+    <car>
       <unique_id>EELW94U9XTG115977</unique_id>
       <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-white-2026/</url>
       <mark_id>Москвич</mark_id>
@@ -17,10 +114,32 @@
       <availability>В наличии</availability>
       <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г., белый</description>
       <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/0/full.webp?v=7f47b0abad5d</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/1/full.webp?v=fe2312392651</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/2/full.webp?v=42a5ef78d75e</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/3/full.webp?v=793f33399371</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/4/full.webp?v=245a14ad0abd</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/5/full.webp?v=1b8cd19d0ada</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EELW94W91TG089461</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-m70-20-at-200-hp-ultra-gray-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>М70</folder_id>
+      <year>2026</year>
+      <vin>EELW94W91TG089461</vin>
+      <price>3499000</price>
+      <sale_price>2999000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>500000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич М70, Ультра, 2.0 AT (200 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/0/full.webp?v=8e82e88b7dfd</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/1/full.webp?v=824f1ff4505e</image>
       </images>
     </car>
     <car>
@@ -113,6 +232,26 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELWC4W97TZ545310/7/full.webp?v=e146bb1f91e6</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELWC4W97TZ545310/8/full.webp?v=c5fd1057099d</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELWC4W97TZ545310/9/full.webp?v=37c1beae09a0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>X7LJA13BAC1041159</unique_id>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-red-black-roof-2026/</url>
+      <mark_id>Москвич</mark_id>
+      <folder_id>3</folder_id>
+      <year>2026</year>
+      <vin>X7LJA13BAC1041159</vin>
+      <price>2150000</price>
+      <sale_price>1790000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>360000</max_benefit>
+      <color>красный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г., красный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=de815d517e33</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/1/full.webp?v=c432e83cc105</image>
       </images>
     </car>
     <car>

@@ -2,13 +2,128 @@
 <channel>
   <title>Автомобили</title>
   <item>
+    <id>EELW94U90TG139561</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/0/full.webp?v=8a74bf6329ca</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>CGY-0 Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U90TG139561</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U90TG157090</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-silver-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/0/full.webp?v=4405a23deafb</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>SLV-0 Серебристый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U90TG157090</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U92TG138248</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-white-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/0/full.webp?v=7040e1e80c1b</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U92TG138248</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U95TG066249</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/0/full.webp?v=92dc6d21adc2</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>CGY-0 Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U95TG066249</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94U95TG107043</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-black-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Драйв 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG107043/0/full.webp?v=7e8993eac957</image_link>
+    <price>3099000 RUB</price>
+    <sale_price>2540000 RUB</sale_price>
+    <min_price>2540000 RUB</min_price>
+    <max_price>3099000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94U95TG107043</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EELW94U9XTG115977</id>
     <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-15-amt-150-hp-adventure-white-2026/</link>
     <brand>Москвич</brand>
     <model>М70</model>
     <year>2026</year>
     <title>Москвич М70 Драйв 2026</title>
-    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/2/full.webp?v=42a5ef78d75e</image_link>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/0/full.webp?v=7f47b0abad5d</image_link>
     <price>3099000 RUB</price>
     <sale_price>2540000 RUB</sale_price>
     <min_price>2540000 RUB</min_price>
@@ -21,6 +136,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>EELW94U9XTG115977</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EELW94W91TG089461</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-m70-20-at-200-hp-ultra-gray-2026/</link>
+    <brand>Москвич</brand>
+    <model>М70</model>
+    <year>2026</year>
+    <title>Москвич М70 Ультра 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/0/full.webp?v=8e82e88b7dfd</image_link>
+    <price>3499000 RUB</price>
+    <sale_price>2999000 RUB</sale_price>
+    <min_price>2999000 RUB</min_price>
+    <max_price>3499000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич М70, Ультра, 2.0 AT (200 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EELW94W91TG089461</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -90,6 +228,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>EELWC4W97TZ545310</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>X7LJA13BAC1041159</id>
+    <link>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-red-black-roof-2026/</link>
+    <brand>Москвич</brand>
+    <model>3</model>
+    <year>2026</year>
+    <title>Москвич 3 Стандарт Телематика MY26 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/0/full.webp?v=de815d517e33</image_link>
+    <price>2150000 RUB</price>
+    <sale_price>1790000 RUB</sale_price>
+    <min_price>1790000 RUB</min_price>
+    <max_price>2150000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г.</description>
+    <exterior_color>КРАСНЫЙ</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>X7LJA13BAC1041159</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
