@@ -25,6 +25,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/5/full.webp?v=485b1fa302c3</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/7/full.webp?v=cd20cf657e0b</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/8/full.webp?v=50bf53cc80ab</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/9/full.webp?v=d4b0344b6a03</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG139561/10/full.webp?v=3e0016dde47e</image>
       </images>
     </car>
     <car>
@@ -42,16 +44,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Москвич М70, Драйв, 1.5 AMT (150 л.с.), 2026 г.</description>
       <images>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/0/full.webp?v=4405a23deafb</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/1/full.webp?v=b8d612369604</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/2/full.webp?v=2664267fb50b</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/3/full.webp?v=7b6826afe5d2</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/4/full.webp?v=2a2201ebb4a0</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/5/full.webp?v=d55495c61260</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/6/full.webp?v=3a296559146a</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/7/full.webp?v=ae541a85f4f0</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/8/full.webp?v=4548a3205eaa</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/9/full.webp?v=b7e99f055b64</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/0/full.webp?v=38c877bc5893</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U90TG157090/1/full.webp?v=ab0663844efd</image>
       </images>
     </car>
     <car>
@@ -80,6 +74,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/7/full.webp?v=159cd735dcdf</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/8/full.webp?v=a8ab822b9e2f</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/9/full.webp?v=ea9811196eca</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/10/full.webp?v=672cd37bcb63</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U92TG138248/11/full.webp?v=41c0b9a7a766</image>
       </images>
     </car>
     <car>
@@ -107,6 +103,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/7/full.webp?v=47389b2d6108</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/8/full.webp?v=f523f078c5e0</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/9/full.webp?v=02771df13658</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/10/full.webp?v=dd38a0eac33c</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U95TG066249/11/full.webp?v=44bf77f190de</image>
       </images>
     </car>
     <car>
@@ -158,6 +156,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/9/full.webp?v=a9fdf0fb7eb7</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/4/full.webp?v=245a14ad0abd</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/11/full.webp?v=b882a15bbc04</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/12/full.webp?v=f885e73d0352</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94U9XTG115977/13/full.webp?v=63f063b7ea52</image>
       </images>
     </car>
     <car>
@@ -186,6 +186,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/7/full.webp?v=2f2f3bac9d7a</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/8/full.webp?v=f19e30e2f80a</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/9/full.webp?v=cd79932ff474</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/10/full.webp?v=7d553caab1a1</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/EELW94W91TG089461/11/full.webp?v=bf6ee2e6d285</image>
       </images>
     </car>
     <car>
@@ -306,6 +308,8 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/7/full.webp?v=5ebb88b459e0</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/8/full.webp?v=c192ad4879ae</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/9/full.webp?v=867115e24f33</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/10/full.webp?v=3346c9645186</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1041159/11/full.webp?v=11429abe82f6</image>
       </images>
     </car>
     <car>
@@ -403,7 +407,7 @@
     </car>
     <car>
       <unique_id>X7LJA13BAC1044577</unique_id>
-      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-blue-2026/</url>
+      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-cvt-136-hp-standart-telematics-my26-blue-black-roof-2026/</url>
       <mark_id>Москвич</mark_id>
       <folder_id>3</folder_id>
       <year>2026</year>
@@ -413,20 +417,14 @@
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>310000</max_benefit>
-      <color>синий</color>
+      <color>голубой</color>
       <availability>В наличии</availability>
-      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г., синий</description>
+      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 CVT (136 л.с.), 2026 г., голубой</description>
       <images>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/0/full.webp?v=84070b8a1bd8</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/1/full.webp?v=a2cb4095ee12</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/0/full.webp?v=82492195b28f</image>
+        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/1/full.webp?v=4c02c3cc61f6</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/2/full.webp?v=905e5a846fd2</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/3/full.webp?v=5d82e7d979ea</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/4/full.webp?v=82d08ce614dd</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/5/full.webp?v=c8408b74c4a7</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/6/full.webp?v=08d6600b9ddb</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/7/full.webp?v=07cbf44eb547</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/8/full.webp?v=4058921b2df1</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAC1044577/9/full.webp?v=9f71e17a340c</image>
       </images>
     </car>
     <car>
@@ -569,62 +567,6 @@
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1041946/8/full.webp?v=315ef14fbbd6</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1041946/9/full.webp?v=6cbc4a475367</image>
         <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1041946/10/full.webp?v=1c20f731726a</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>X7LJA13BAM1042586</unique_id>
-      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-telematics-my26-blue-black-roof-2026/</url>
-      <mark_id>Москвич</mark_id>
-      <folder_id>3</folder_id>
-      <year>2026</year>
-      <vin>X7LJA13BAM1042586</vin>
-      <price>2040000</price>
-      <sale_price>1730000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>310000</max_benefit>
-      <color>голубой</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г., голубой</description>
-      <images>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/0/full.webp?v=130657f4d751</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/1/full.webp?v=54b2937b4173</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/2/full.webp?v=e0ea342978d5</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/3/full.webp?v=147bf2baeff5</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/4/full.webp?v=2619547bc239</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/5/full.webp?v=f90f0dc3c340</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/6/full.webp?v=4a032cc011ba</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/7/full.webp?v=5ba2a409095d</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/8/full.webp?v=7a1826890ede</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042586/9/full.webp?v=df6d8667763e</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>X7LJA13BAM1042864</unique_id>
-      <url>https://cars.moskvich-samara.ru/cars/moskvich-3-15-mt-136-hp-standart-telematics-my26-blue-black-roof-2026/</url>
-      <mark_id>Москвич</mark_id>
-      <folder_id>3</folder_id>
-      <year>2026</year>
-      <vin>X7LJA13BAM1042864</vin>
-      <price>2040000</price>
-      <sale_price>1680000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>360000</max_benefit>
-      <color>голубой</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Москвич 3, Стандарт Телематика MY26, 1.5 MT (136 л.с.), 2026 г., голубой</description>
-      <images>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/0/full.webp?v=e31750ead383</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/1/full.webp?v=22f34b0ad541</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/2/full.webp?v=c83ff2260246</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/3/full.webp?v=63c611b17ded</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/4/full.webp?v=ca657eb4476d</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/5/full.webp?v=a523a3c4dea3</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/6/full.webp?v=98b7a0397af5</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/7/full.webp?v=5f6838183fa9</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/8/full.webp?v=9d905f2b8d73</image>
-        <image>https://img.upspace.ru/cars/cars.moskvich-samara.ru/new/X7LJA13BAM1042864/9/full.webp?v=48c4fa6d59c7</image>
       </images>
     </car>
     <car>
